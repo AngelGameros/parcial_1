@@ -1,0 +1,117 @@
+[
+    {
+        "timestamp": "2025-04-08 08:38:43",
+        "level": "info",
+        "message": "Procesando notificación ID: 5 (Envío a todos)"
+    },
+    {
+        "timestamp": "2025-04-08 08:38:43",
+        "level": "info",
+        "message": "Enviando notificación ID 5 a 1 usuarios."
+    },
+    {
+        "timestamp": "2025-04-08 08:38:44",
+        "level": "info",
+        "message": "Notificación ID 5 enviada a todos. Respuesta parcial: [{\"status\":\"ok\",\"id\":\"0196141f-659e-7037-9e67-11a6012406e1\"}]"
+    },
+    {
+        "timestamp": "2025-04-08 08:38:44",
+        "level": "info",
+        "message": "Notificación ID 5 marcada como enviada en BD."
+    },
+    {
+        "timestamp": "2025-04-08 08:48:40",
+        "level": "info",
+        "message": "Procesando notificación ID: 6 (Envío a todos)"
+    },
+    {
+        "timestamp": "2025-04-08 08:48:40",
+        "level": "info",
+        "message": "Enviando notificación ID 6 a 1 usuarios."
+    },
+    {
+        "timestamp": "2025-04-08 08:48:40",
+        "level": "info",
+        "message": "Notificación ID 6 enviada a todos. Respuesta parcial: [{\"status\":\"ok\",\"id\":\"01961428-7f67-7564-aba9-b96bbb97e0be\"}]"
+    },
+    {
+        "timestamp": "2025-04-08 08:48:40",
+        "level": "info",
+        "message": "Notificación ID 6 marcada como enviada en BD."
+    },
+    {
+        "timestamp": "2025-04-08 08:51:02",
+        "level": "info",
+        "message": "Procesando notificación ID: 7 (Envío a todos)"
+    },
+    {
+        "timestamp": "2025-04-08 08:51:02",
+        "level": "info",
+        "message": "Enviando notificación ID 7 a 1 usuarios."
+    },
+    {
+        "timestamp": "2025-04-08 08:51:02",
+        "level": "info",
+        "message": "Notificación ID 7 enviada a todos. Respuesta parcial: [{\"status\":\"ok\",\"id\":\"0196142a-aa4b-7c39-8914-174f24d0ce1c\"}]"
+    },
+    {
+        "timestamp": "2025-04-08 08:51:02",
+        "level": "info",
+        "message": "Notificación ID 7 marcada como enviada en BD."
+    },
+    {
+        "timestamp": "2025-04-08 08:56:24",
+        "level": "critical",
+        "message": "Error de base de datos: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away"
+    },
+    {
+        "timestamp": "2025-04-08 16:52:20",
+        "level": "info",
+        "message": "Iniciando notification_daemon.php (Envío a todos)"
+    },
+    {
+        "timestamp": "2025-04-08 17:51:59",
+        "level": "info",
+        "message": "Iniciando notification_daemon.php (Envío a todos)"
+    },
+    {
+        "timestamp": "2025-04-08 18:17:25",
+        "level": "info",
+        "message": "Procesando notificación ID: 8 (Envío a todos)"
+    },
+    {
+        "timestamp": "2025-04-08 18:17:25",
+        "level": "info",
+        "message": "Enviando notificación ID 8 a 1 usuarios."
+    },
+    {
+        "timestamp": "2025-04-08 18:17:26",
+        "level": "info",
+        "message": "Notificación ID 8 enviada a todos. Respuesta parcial: [{\"status\":\"ok\",\"id\":\"01961631-3b38-73fa-a9ee-ee8f799581df\"}]"
+    },
+    {
+        "timestamp": "2025-04-08 18:17:26",
+        "level": "info",
+        "message": "Notificación ID 8 marcada como enviada en BD."
+    },
+    {
+        "timestamp": "2025-04-08 18:18:12",
+        "level": "info",
+        "message": "Procesando notificación ID: 9 (Envío a todos)"
+    },
+    {
+        "timestamp": "2025-04-08 18:18:12",
+        "level": "info",
+        "message": "Enviando notificación ID 9 a 1 usuarios."
+    },
+    {
+        "timestamp": "2025-04-08 18:18:12",
+        "level": "info",
+        "message": "Notificación ID 9 enviada a todos. Respuesta parcial: [{\"status\":\"ok\",\"id\":\"01961631-eddd-7947-bd73-158d53f99405\"}]"
+    },
+    {
+        "timestamp": "2025-04-08 18:18:12",
+        "level": "info",
+        "message": "Notificación ID 9 marcada como enviada en BD."
+    }
+]
